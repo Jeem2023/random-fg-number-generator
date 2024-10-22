@@ -4,3 +4,4 @@ I didn't make the lists of words myself. I'm currently trying to find where I go
 
 # Lists from:
 https://www.talkenglish.com/vocabulary/top-1500-nouns.aspx
+https://github.com/aaronbassett/Pass-phrase/blob/master/verbs.txt

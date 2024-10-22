@@ -1,7 +1,6 @@
 # random-fg-number-generator
 
-I didn't make the lists of words myself. I'm currently trying to find where I got some of them.
-
 # Lists from:
 https://www.talkenglish.com/vocabulary/top-1500-nouns.aspx
 https://github.com/aaronbassett/Pass-phrase/blob/master/verbs.txt
+https://gist.github.com/hugsy/8910dc78d208e40de42deb29e62df913
